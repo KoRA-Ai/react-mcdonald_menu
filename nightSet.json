@@ -1,0 +1,156 @@
+[
+   {
+      "id": 1, 
+      "name":"大麥克",
+      "single": "75",
+      "set1Price": "140",
+      "set2Price": "140",
+      "set3Price": "153",
+      "set4Price": "170",
+      "set5Price": "170",
+      "set6Price": "153"
+    },
+  {
+      "id": 2, 
+      "name":"雙層牛肉吉事堡",
+      "single": "65",
+      "set1Price": "130",
+      "set2Price": "130",
+      "set3Price": "143",
+      "set4Price": "160",
+      "set5Price": "160",
+      "set6Price": "143"
+    },
+  {
+      "id": 3, 
+      "name":"嫩煎雞腿堡",
+      "single": "80",
+      "set1Price": "145",
+      "set2Price": "145",
+      "set3Price": "158",
+      "set4Price": "175",
+      "set5Price": "175",
+      "set6Price": "158"
+    },
+  {
+      "id": 4, 
+      "name":"麥香雞",
+      "single": "45",
+      "set1Price": "110",
+      "set2Price": "110",
+      "set3Price": "123",
+      "set4Price": "140",
+      "set5Price": "140",
+      "set6Price": "123"
+    },
+  {
+      "id": 5, 
+      "name":"勁辣雞腿堡",
+      "single": "75",
+      "set1Price": "140",
+      "set2Price": "140",
+      "set3Price": "153",
+      "set4Price": "170",
+      "set5Price": "170",
+      "set6Price": "153"
+    },
+  {
+      "id": 6, 
+      "name":"麥香魚",
+      "single": "49",
+      "set1Price": "114",
+      "set2Price": "114",
+      "set3Price": "127",
+      "set4Price": "144",
+      "set5Price": "144",
+      "set6Price": "127"
+    },
+  {
+      "id": 7, 
+      "name":"麥克雞塊 (6塊)",
+      "single": "64",
+      "set1Price": "129",
+      "set2Price": "129",
+      "set3Price": "142",
+      "set4Price": "159",
+      "set5Price": "159",
+      "set6Price": "142"
+    },
+  {
+      "id": 8, 
+      "name":"麥克雞塊 (10塊)",
+      "single": "104",
+      "set1Price": "169",
+      "set2Price": "169",
+      "set3Price": "182",
+      "set4Price": "199",
+      "set5Price": "199",
+      "set6Price": "182"
+    },
+  {
+      "id": 9, 
+      "name":"BLT 安格斯黑牛堡",
+      "single": "114",
+      "set1Price": "179",
+      "set2Price": "179",
+      "set3Price": "192",
+      "set4Price": "209",
+      "set5Price": "209",
+      "set6Price": "192"
+    },
+  {
+      "id": 10, 
+      "name":"BLT 辣脆雞腿堡",
+      "single": "114",
+      "set1Price": "179",
+      "set2Price": "179",
+      "set3Price": "192",
+      "set4Price": "209",
+      "set5Price": "209",
+      "set6Price": "192"
+    },
+  {
+      "id": 11, 
+      "name":"BLT 嫩煎雞腿堡",
+      "single": "114",
+      "set1Price": "179",
+      "set2Price": "179",
+      "set3Price": "192",
+      "set4Price": "209",
+      "set5Price": "209",
+      "set6Price": "192"
+    },
+  {
+      "id": 12, 
+      "name":"蕈菇安格斯黑牛堡",
+      "single": "124",
+      "set1Price": "189",
+      "set2Price": "189",
+      "set3Price": "202",
+      "set4Price": "219",
+      "set5Price": "219",
+      "set6Price": "202"
+    },
+  {
+      "id": 13, 
+      "name":"凱薩脆雞沙拉",
+      "single": "104",
+      "set1Price": "169",
+      "set2Price": "169",
+      "set3Price": "182",
+      "set4Price": "199",
+      "set5Price": "199",
+      "set6Price": "182"
+    },
+  {
+      "id": 14, 
+      "name":"義式烤雞沙拉",
+      "single": "104",
+      "set1Price": "169",
+      "set2Price": "169",
+      "set3Price": "182",
+      "set4Price": "199",
+      "set5Price": "199",
+      "set6Price": "182"
+    }
+  ]
