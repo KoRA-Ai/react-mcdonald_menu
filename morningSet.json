@@ -43,6 +43,96 @@
       "set2Price": "88",
       "set3Price": "98",
       "set4Price": "118"
+    },
+  {
+      "id": 6, 
+      "name":"豬肉蛋堡",
+      "single": "62",
+      "set1Price": "82",
+      "set2Price": "92",
+      "set3Price": "102",
+      "set4Price": "122"
+    },
+  {
+      "id": 7, 
+      "name":"火腿蛋堡",
+      "single": "50",
+      "set1Price": "70",
+      "set2Price": "80",
+      "set3Price": "90",
+      "set4Price": "110"
+    },
+  {
+      "id": 8, 
+      "name":"吉事蛋堡",
+      "single": "32",
+      "set1Price": "52",
+      "set2Price": "62",
+      "set3Price": "72",
+      "set4Price": "92"
+    },
+  {
+      "id": 9, 
+      "name":"	蕈菇嫩蛋焙果堡",
+      "single": "89",
+      "set1Price": "99",
+      "set2Price": "109",
+      "set3Price": "119",
+      "set4Price": "139"
+    },
+  {
+      "id": 10, 
+      "name":"蕃茄嫩蛋焙果堡",
+      "single": "69",
+      "set1Price": "89",
+      "set2Price": "99",
+      "set3Price": "109",
+      "set4Price": "129"
+    },
+  {
+      "id": 11, 
+      "name":"現烤焙果",
+      "single": "55",
+      "set1Price": "75",
+      "set2Price": "85",
+      "set3Price": "95",
+      "set4Price": "115"
+    },
+  {
+      "id": 12, 
+      "name":"雞塊鬆餅大早餐",
+      "single": "109",
+      "set1Price": "129",
+      "set2Price": "139",
+      "set3Price": "149",
+      "set4Price": "149"
+    },
+  {
+      "id": 13, 
+      "name":"豬肉鬆餅",
+      "single": "69",
+      "set1Price": "89",
+      "set2Price": "99",
+      "set3Price": "109",
+      "set4Price": "129"
+    },
+  {
+      "id": 14, 
+      "name":"鬆餅",
+      "single": "55",
+      "set1Price": "115",
+      "set2Price": "95",
+      "set3Price": "85",
+      "set4Price": "75"
+    },
+  {
+      "id": 15, 
+      "name":"經典大早餐",
+      "single": "69",
+      "set1Price": "89",
+      "set2Price": "99",
+      "set3Price": "109",
+      "set4Price": "129"
     }
   
   ]
